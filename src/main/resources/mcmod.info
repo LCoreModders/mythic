@@ -1,0 +1,16 @@
+[
+{
+  "modid": "monster",
+  "name": "Monster",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Grayson"],
+  "credits": "Lucraft, for the core",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
